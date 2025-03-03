@@ -1,0 +1,110 @@
+{
+    "languages": {
+        "title": "Quelle est votre langue préférée?",
+        "description": "Choisissez votre langue",
+        "answers": [
+            {
+                "name": "Anglais",
+                "code": "en"
+            },
+            {
+                "name": "Français",
+                "code": "fr"
+            },
+            {
+                "name": "Allemand",
+                "code": "de"
+            },
+            {
+                "name": "Espagnol",
+                "code": "es"
+            }
+        ]
+    },
+    "gender": {
+        "title": "Avec quel genre vous identifiez-vous?",
+        "description": "Veuillez partager comment vous vous identifiez",
+        "answers": [
+            {
+                "name": "Femme",
+                "emoji": "👩"
+            },
+            {
+                "name": "Homme",
+                "emoji": "👨"
+            },
+            {
+                "name": "Autre",
+                "emoji": "😉"
+            }
+        ]
+    },
+    "age": {
+        "title": "Quel est votre âge?",
+        "answers": [
+            "18-29 ans",
+            "30-39 ans",
+            "40-49 ans",
+            "50+ ans"
+        ]
+    },
+    "hates": {
+        "title": "Qu'est-ce que vous détestez le plus dans un livre?",
+        "answers": [
+            "Manque de logique",
+            "Rythme trop lent",
+            "Manque d'humour",
+            "Fin trop générique"
+        ]
+    },
+    "favorites": {
+        "title": "Quels sont vos sujets préférés?",
+        "description": "Choisissez jusqu'à 3 sujets",
+        "answers": [
+            {
+                "name": "Loup-garou",
+                "emoji": "🐺"
+            },
+            {
+                "name": "Action",
+                "emoji": "🕺"
+            },
+            {
+                "name": "Obsession royale",
+                "emoji": "👑"
+            },
+            {
+                "name": "Milliardaire",
+                "emoji": "🤑"
+            },
+            {
+                "name": "Romance",
+                "emoji": "🥰"
+            },
+            {
+                "name": "Jeunes adultes",
+                "emoji": "🙋‍♀️"
+            },
+            {
+                "name": "Bad Boy",
+                "emoji": "😎"
+            }
+        ]
+    },
+    "email": {
+        "title": "E-mail",
+        "description": "Entrez votre e-mail pour un accès complet",
+        "terms": "En continuant, j'accepte la politique de confidentialité et les conditions d'utilisation.",
+        "errorMessage": "Adresse e-mail invalide"
+    },
+    "thank-you": {
+        "title": "Merci",
+        "description": "pour votre soutien et d'avoir passé le quiz"
+    },
+    "common": {
+        "nextButton": "Suivant",
+        "downloadButton": "Télécharger mes réponses",
+        "retakeButton": "Reprendre le quiz",
+        "loader": "Recherche de collections pour vous..."
+    }
+}

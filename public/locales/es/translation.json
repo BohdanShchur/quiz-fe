@@ -1,0 +1,110 @@
+{
+    "languages": {
+        "title": "¿Cuál es tu idioma preferido?",
+        "description": "Elige tu idioma",
+        "answers": [
+            {
+                "name": "Inglés",
+                "code": "en"
+            },
+            {
+                "name": "Francés",
+                "code": "fr"
+            },
+            {
+                "name": "Alemán",
+                "code": "de"
+            },
+            {
+                "name": "Español",
+                "code": "es"
+            }
+        ]
+    },
+    "gender": {
+        "title": "¿Con qué género te identificas?",
+        "description": "Comparte cómo te identificas",
+        "answers": [
+            {
+                "name": "Mujer",
+                "emoji": "👩"
+            },
+            {
+                "name": "Hombre",
+                "emoji": "👨"
+            },
+            {
+                "name": "Otro",
+                "emoji": "😉"
+            }
+        ]
+    },
+    "age": {
+        "title": "¿Cuál es tu edad?",
+        "answers": [
+            "18-29 años",
+            "30-39 años",
+            "40-49 años",
+            "50+ años"
+        ]
+    },
+    "hates": {
+        "title": "¿Qué es lo que más odias en un libro?",
+        "answers": [
+            "Falta de lógica",
+            "Ritmo lento",
+            "Falta de humor",
+            "Final demasiado genérico"
+        ]
+    },
+    "favorites": {
+        "title": "¿Cuáles son tus temas favoritos?",
+        "description": "Elige hasta 3 temas",
+        "answers": [
+            {
+                "name": "Hombre lobo",
+                "emoji": "🐺"
+            },
+            {
+                "name": "Acción",
+                "emoji": "🕺"
+            },
+            {
+                "name": "Obsesión real",
+                "emoji": "👑"
+            },
+            {
+                "name": "Multimillonario",
+                "emoji": "🤑"
+            },
+            {
+                "name": "Romance",
+                "emoji": "🥰"
+            },
+            {
+                "name": "Jóvenes adultos",
+                "emoji": "🙋‍♀️"
+            },
+            {
+                "name": "Chico malo",
+                "emoji": "😎"
+            }
+        ]
+    },
+    "email": {
+        "title": "Correo electrónico",
+        "description": "Ingresa tu correo para obtener acceso completo",
+        "terms": "Al continuar, acepto la política de privacidad y los términos de uso.",
+        "errorMessage": "Dirección de correo inválida"
+    },
+    "thank-you": {
+        "title": "Gracias",
+        "description": "por apoyarnos y completar el quiz"
+    },
+    "common": {
+        "nextButton": "Siguiente",
+        "downloadButton": "Descargar mis respuestas",
+        "retakeButton": "Rehacer el quiz",
+        "loader": "Buscando colecciones para ti..."
+    }
+}

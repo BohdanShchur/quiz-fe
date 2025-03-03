@@ -1,0 +1,110 @@
+{
+    "languages": {
+        "title": "What is your preferred language?",
+        "description": "Choose your language",
+        "answers": [
+            {
+                "name": "English",
+                "code": "en"
+            },
+            {
+                "name": "French",
+                "code": "fr"
+            },
+            {
+                "name": "German",
+                "code": "de"
+            },
+            {
+                "name": "Spanish",
+                "code": "es"
+            }
+        ]
+    },
+    "gender": {
+        "title": "What gender do you identify with?",
+        "description": "Please share how do you identify yourself",
+        "answers": [
+            {
+                "name": "Female",
+                "emoji": "👩"
+            },
+            {
+                "name": "Man",
+                "emoji": "👨"
+            },
+            {
+                "name": "Other",
+                "emoji": "😉"
+            }
+        ]
+    },
+    "age": {
+        "title": "What is your age?",
+        "answers": [
+            "18-29 years",
+            "30-39 years",
+            "40-49 years",
+            "50+ years"
+        ]
+    },
+    "hates": {
+        "title": "What do you hate the most in a book?",
+        "answers": [
+            "Lack of logic",
+            "A slow speed",
+            "Lack of humor",
+            "Way too generic ending"
+        ]
+    },
+    "favorites": {
+        "title": "What are your favorite topics?",
+        "description": "Choose up to 3 topics you like",
+        "answers": [
+            {
+                "name": "Werewolf",
+                "emoji": "🐺"
+            },
+            {
+                "name": "Action",
+                "emoji": "🕺"
+            },
+            {
+                "name": "Royal Obsession",
+                "emoji": "👑"
+            },
+            {
+                "name": "Billionaire",
+                "emoji": "🤑"
+            },
+            {
+                "name": "Romance",
+                "emoji": "🥰"
+            },
+            {
+                "name": "Young Adult",
+                "emoji": "🙋‍♀️"
+            },
+            {
+                "name": "Bad Boy",
+                "emoji": "😎"
+            }
+        ]
+    },
+    "email": {
+        "title": "Email",
+        "description": "Enter your email to get full access",
+        "terms": "By continuing I agree with Privacy policy and Terms of use.",
+        "errorMessage": "Invalid email address"
+    },
+    "thank-you": {
+        "title": "Thank you",
+        "description": "for supporting us and passing quiz"
+    },
+    "common": {
+        "nextButton": "Next",
+        "downloadButton": "Download my answers",
+        "retakeButton": "Retake quiz",
+        "loader": "Finding collections for you..."
+    }
+}
