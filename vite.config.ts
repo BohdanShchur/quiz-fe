@@ -9,4 +9,5 @@ export default defineConfig({
     react(), 
     tailwindcss()
 ],
+base: "https://github.com/BohdanShchur/quiz-fe.git",
 })
