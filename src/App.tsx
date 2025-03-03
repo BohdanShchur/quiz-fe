@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
 import './App.css'
 import QuizWrapper from './components/QuizWrapper'
 import Languages from './routes/Languages'
@@ -13,7 +13,8 @@ function App() {
   return (
       <BrowserRouter>
         <Routes>
-          <Route path="/quiz" element={<QuizWrapper />}>
+            <Route index element={<Navigate to="/quiz/languages" replace />} />
+            <Route path="/quiz" element={<QuizWrapper />}>
             <Route path="languages" element={ <Languages />} />
             <Route path="gender" element={ <Gender />} />
             <Route path="age" element={ <Age />} />
